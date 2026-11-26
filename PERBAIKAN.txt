@@ -1,0 +1,4 @@
+PERBAIKAN VERSI 2
+Memperbaiki fungsi tabel agar baris data tetap dimasukkan meskipun pemanggilan tabel tidak menggunakan mapping kolom.
+Dampak: data pada menu Data Event dan Laporan Penjualan sekarang ditampilkan.
+Database event_ticket.db yang sudah ada tidak perlu dihapus. Jalankan app.py yang baru dari folder ini.
